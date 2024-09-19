@@ -1,8 +1,8 @@
-# Computer Vision
+# Image Processing
 
-![GitHub last commit](https://img.shields.io/github/last-commit/mateuszk098/computer-vision)
+![GitHub last commit](https://img.shields.io/github/last-commit/mateuszk098/image-processing)
 
-Some notebooks and scripts used during learning Computer Vision fundamentals.
+Some notebooks and scripts used during learning image processing fundamentals.
 
 ## **Contents:**
 
