@@ -6,17 +6,6 @@ Some notebooks and scripts used during learning image processing fundamentals.
 
 ## **Contents:**
 
-- **[Image Processing Fundamentals](https://github.com/mateuszk098/computer-vision/tree/master/image_processing_fundamentals):**
-  - Scaling Transforms
-  - Geometric Transforms
-  - Binary Morphology
-  - Image Filtering
-  - Canny Edge Detection
-  - Shape Detection
-  - Corner Detection
-  - Object Detection
-- **[OpenCV Fundamentals](https://github.com/mateuszk098/computer-vision/tree/master/opencv_fundamentals):**
-  - Interactive Drawing
-  - Image Processing Basics
-  - Video Streaming
-  - Optical Flow
+- [Computer Vision Theory and Projects in Python for Beginners](https://github.com/mateuszk098/image-processing/tree/master/computer_vision_theory_and_projects_in_python_for_beginners) - Notes from the course: [https://www.oreilly.com/library/view/computer-vision-theory/9781801815949/](https://www.oreilly.com/library/view/computer-vision-theory/9781801815949/).
+- [Learning OpenCV by Gary Bradski](https://github.com/mateuszk098/image-processing/tree/master/learning_opencv_by_gary_bradski) - Notes from the Learning OpenCV by Gary Bradski's book.
+- [Python for Computer Vision with OpenCV and Deep Learning](https://github.com/mateuszk098/image-processing/tree/master/python_for_computer_vision_with_opencv_and_deep_learning) - Notes from the course: [https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning)
